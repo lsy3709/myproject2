@@ -33,6 +33,7 @@
 	</td>
 	<td width="700" valign="top">
         <jsp:include page="../module/bottom.jsp" flush="false" />
+        //testing
     </td>
 </tr>
 </table>
